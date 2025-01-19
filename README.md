@@ -38,24 +38,20 @@
 
 ### **Steps:** ➡️❗ [Click Here To View Detailed Visual Steps](https://github.com/MJaloui/IAM-Users-Groups-S3-Access/blob/main/VisualStepsHere.md) ❗⬅️
 
-1. Clone the Repository
 
-2. Create IAM Users:
+
+1. Create an S3 Bucket.
+
+2. Create IAM Users.
    
-
-3. Create IAM Groups:
+3. Create IAM Groups.
  
+4. Attach S3 Full Access Policies.
 
-4. Attach S3 Full Access Policies:
-
-
-5. Create and Manage an S3 Bucket:
+5. Test Permissions.
    
 
-6. Test Permissions:
-   
-
-
+ 
 ---
 
 ### **Key Takeaways**
