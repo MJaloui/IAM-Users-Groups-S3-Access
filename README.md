@@ -39,21 +39,21 @@
 
 ### **Steps:** ➡️❗ [Click Here To View Detailed Visual Steps](https://github.com/MJaloui/IAM-Users-Groups-S3-Access/blob/main/VisualStepsHere.md) ❗⬅️
 
-1. Clone the Repository
+Step 1. Clone the Repository
 
-2. Create IAM Users:
+Step 2. Create IAM Users:
    - Use the AWS Management Console or AWS CLI to create individual IAM users.
 
-3. Create IAM Groups:
+Step 3. Create IAM Groups:
    - Create groups and organize users based on roles (e.g., Admins, Developers).
 
-4. Attach S3 Full Access Policies:
+Step 4. Attach S3 Full Access Policies:
    - Assign the S3 Full Access policy to users, groups, or roles.
 
-5. Create and Manage an S3 Bucket:
+Step 5. Create and Manage an S3 Bucket:
    - Set up an S3 bucket and test access with IAM users and groups.
 
-6. Test Permissions:
+Step 6. Test Permissions:
    - Verify that users and groups can only access resources as defined in their policies.
 
 
