@@ -25,9 +25,8 @@
 - **Visual Studio Code**
 - **Cloud Provider**: AWS
 - **Core Services**: IAM, S3
-- **Programming Language**: Python (for optional scripting)
 - **IAM Security**:
-  - **Least privilege policies**: IAM and S3
+- **Least privilege policies**: IAM and S3
 
 ---
 
