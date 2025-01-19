@@ -37,7 +37,7 @@
 - AWS account with IAM and S3 permissions.
 - Basic understanding of AWS IAM and S3.
 
-### **Steps:**
+### **Steps:** ➡️❗ [Click Here To View Detailed Visual Steps](https://github.com/MJaloui/IAM-Users-Groups-S3-Access/blob/main/VisualStepsHere.md) ❗⬅️
 
 1. Clone the Repository
 
