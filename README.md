@@ -20,14 +20,14 @@
 🔹 Highlights security best practices, including the principle of least privilege for IAM policies.
 
 ## **🚨 Technologies 🚨**
-- **Linux**
-- **Virtual Box**
-- **Ubuntu**
-- **Visual Studio Code**
-- **Cloud Provider**: AWS
-- **Core Services**: IAM, S3
-- **IAM Security**:
-- **Least privilege policies**: IAM and S3
+🔹**Linux**
+🔹 **Virtual Box**
+🔹 **Ubuntu**
+🔹 **Visual Studio Code**
+🔹 **Cloud Provider**: AWS
+🔹 **Core Services**: IAM, S3
+🔹 **IAM Security**:
+🔹 **Least privilege policies**: IAM and S3
 
 ---
 
