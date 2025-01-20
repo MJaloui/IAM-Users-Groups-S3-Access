@@ -78,8 +78,11 @@
 
 
 ### 10. Select:
+  
    - "I want to create an IAM user.
+   
    - Select Custom password.
+   
    - Ensure the checkbox that is next to "Users must create a new password at the nest sign- 
      in" is checked.
 
@@ -115,15 +118,37 @@
 
 
 
-### 15. Click "Create user group".
+### 15. Click "Create user group". If you see the green banner above, the group was created successfully.
 
 ![image](https://github.com/user-attachments/assets/38c478a6-37fe-4d08-a0f5-e2f39bfd2ac9)
+![image](https://github.com/user-attachments/assets/740c9045-9a5e-4157-a23e-ee7afc13d34a)
 
 
-### 16. 
+
+
+### 16. Validate everything, then click "Next".
+
+![image](https://github.com/user-attachments/assets/b8b0fa48-2f5c-4900-ab8c-474ea3e369f1)
 
 
 
+### 17. Review all of your "User details", "Permissions summary", and etc... 
+   
+    - Click "Create User".
+
+![image](https://github.com/user-attachments/assets/63642f13-cc5e-4d83-b296-99b972118ba2)
+
+
+### 18. You will recieve a green banner above if user was created succefully.
+ 
+ - Download file if you'd like to see instructions for signing in.
+
+ - Copy the URL displayed, you will need if for your User to sign in.
+ 
+ - If you forgot the Password for your User, click "Show" under "Console password", it's also 
+   in the downloaded file.
+
+![image](https://github.com/user-attachments/assets/536ae5af-913e-4e6a-b1e4-bd51a9ce1d44)
 
 
 
