@@ -10,7 +10,10 @@
 
 🔑 The project showcases the use of **AWS IAM**, **AWS S3**, and **best practices for permissions management** in the cloud.
 
+
+
 ## **🔧 Capabilities 🔧**
+
 🔹 Explains the need for Identity and Access Management (IAM) on AWS.
 
 🔹 Demonstrates how to create and manage IAM users and groups.
@@ -20,16 +23,28 @@
 🔹 Highlights security best practices, including the principle of least privilege for IAM policies.
 
 ## **🚨 Technologies 🚨**
+
 🔹**Linux**
+
 🔹 **Virtual Box**
+
 🔹 **Ubuntu**
+
 🔹 **Visual Studio Code**
+
 🔹 **Cloud Provider**: AWS
+
 🔹 **Core Services**: IAM, S3
+
 🔹 **IAM Security**:
+
 🔹 **Least privilege policies**: IAM and S3
 
+
+
 ---
+
+
 
 ## **👀 Instructions 👀**   
 
@@ -37,9 +52,8 @@
 - AWS account with IAM and S3 permissions.
 - Basic understanding of AWS IAM and S3.
 
+
 ### **Steps:** ➡️❗ [Click Here To View Detailed Visual Steps](https://github.com/MJaloui/IAM-Users-Groups-S3-Access/blob/main/VisualStepsHere.md) ❗⬅️
-
-
 
 1. Create an S3 Bucket.
 
@@ -54,6 +68,8 @@
 
  
 ---
+
+
 
 ### **✔️ Keynotes ✔️**
 
