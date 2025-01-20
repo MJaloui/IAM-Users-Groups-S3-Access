@@ -2,7 +2,7 @@
 
 
 
-## **Project Highlights**
+## **🔷 Project Highlights 🔷**
 
 🔒 This project demonstrates how to manage IAM users and groups effectively while granting access to an S3 bucket.
 
