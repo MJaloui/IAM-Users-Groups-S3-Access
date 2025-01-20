@@ -48,9 +48,11 @@
 
 ## **👀 Instructions 👀**   
 
-**Prerequisites**
-- AWS account with IAM and S3 permissions.
-- Basic understanding of AWS IAM and S3.
+**🔹 Prerequisites 🔹**
+
+🔹 AWS account with IAM and S3 permissions.
+
+🔹 Basic understanding of AWS IAM and S3.
 
 
 ### **Steps:** ➡️❗ [Click Here To View Detailed Visual Steps](https://github.com/MJaloui/IAM-Users-Groups-S3-Access/blob/main/VisualStepsHere.md) ❗⬅️
