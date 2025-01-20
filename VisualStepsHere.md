@@ -76,7 +76,7 @@
 
 
 
-### 9. Enter a "User name", then check the box that displays "Provide user access to the AWS 
+### 9. Enter a "User name", then check the box next to "Provide user access to the AWS 
    Management Console".
 
 ![image](https://github.com/user-attachments/assets/40f626e1-bb78-4285-8fe6-07ce9c2fdde4)
@@ -84,7 +84,7 @@
 
 ### 10. Select:
   
-   - "I want to create an IAM user.
+   - Select "I want to create an IAM user.
    
    - Select Custom password.
    
@@ -180,12 +180,36 @@
 
 
 
-### 21. Enter a "User name"
+### 21. Enter a "User name", check the box that displays "Provide user access to the AWs 
+###     "Management Console".
+
+![image](https://github.com/user-attachments/assets/1a39753f-afb8-4be6-a924-51b4406194a5)
+
+
+
+### 22. Select the same options as the last last user:
+
+   - check the box next to "Provide user access to the AWs "Management Console".
+
+   - Select "I want to create an IAM user".
+   
+   - Select "Custom password".
+   
+   - Ensure the checkbox that is next to "Users must create a new password at the next sign- 
+     in" is checked.
 
 
 
 
+### 23. Click "Next".
 
+![image](https://github.com/user-attachments/assets/5ce4d621-bef6-48cc-bc1f-adc130c45c44)
+
+
+
+### 24. Create a group for your Second User,
+
+![image](https://github.com/user-attachments/assets/70442291-9dc6-4119-9bb5-22e172e730a2)
 
 
 
