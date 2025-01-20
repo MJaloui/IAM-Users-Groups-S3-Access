@@ -94,6 +94,7 @@
 ![image](https://github.com/user-attachments/assets/94ce4b20-433a-4d08-8311-14ad858dc1e4)
 
 
+
 ### 12. Setting Permissions is optiontional, scroll down and click "Create group"
 
 ![image](https://github.com/user-attachments/assets/7a99800d-305f-48eb-8568-3b09b6310daa)
@@ -119,72 +120,10 @@
 ![image](https://github.com/user-attachments/assets/38c478a6-37fe-4d08-a0f5-e2f39bfd2ac9)
 
 
-
-
-17.
-
-
-
-18.
+### 16. 
 
 
 
-19.
-
-
-
-20.
-
-
-
-21.
-
-
-
-22.
-
-
-
-23.
-
-
-
-24.
-
-
-
-25.
-
-
-
-26.
-
-
-
-27.
-
-
-
-28.
-29.
-30.
-31.
-32.
-33.
-34.
-35.
-36.
-37.
-38.
-39.
-40.
-41.
-42.
-43.
-44.
-45. Create IAM Users, login to AWS and use the AWS Management Console to head to IAM.
-
-![image](https://github.com/user-attachments/assets/fb868cea-21a9-4c3a-937e-6913c8d852ed)
 
 
 
