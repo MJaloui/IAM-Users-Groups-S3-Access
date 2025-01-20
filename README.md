@@ -3,20 +3,21 @@
 
 
 ## **Project Highlights**
-🔐 This project demonstrates how to manage IAM users and groups effectively while granting access to an S3 bucket.
 
-🔐 It covers creating IAM users, organizing them into groups, and assigning permissions to access AWS S3 resources.
+🔒 This project demonstrates how to manage IAM users and groups effectively while granting access to an S3 bucket.
 
-🔐 The project showcases the use of **AWS IAM**, **AWS S3**, and **best practices for permissions management** in the cloud.
+🛡️ It covers creating IAM users, organizing them into groups, and assigning permissions to access AWS S3 resources.
 
-## **Capabilities**
-🔧 Explains the need for Identity and Access Management (IAM) on AWS.
+🔑 The project showcases the use of **AWS IAM**, **AWS S3**, and **best practices for permissions management** in the cloud.
 
-🔧 Demonstrates how to create and manage IAM users and groups.
+## **🔧 Capabilities 🔧**
+🔹 Explains the need for Identity and Access Management (IAM) on AWS.
 
-🔧 Attaches S3 Full Access policies to IAM users, groups, and roles.
+🔹 Demonstrates how to create and manage IAM users and groups.
 
-🔧 Highlights security best practices, including the principle of least privilege for IAM policies.
+🔹 Attaches S3 Full Access policies to IAM users, groups, and roles.
+
+🔹 Highlights security best practices, including the principle of least privilege for IAM policies.
 
 ## **🚨 Technologies 🚨**
 - **Linux**
@@ -54,18 +55,20 @@
  
 ---
 
-### **Key Takeaways**
-✔️ Understanding the importance of IAM in managing access to AWS resources.
+### **✔️ Keynotes ✔️**
 
-✔️ Learning how to create and manage IAM users and groups.
+🔹 Understanding the importance of IAM in managing access to AWS resources.
 
-✔️ Implementing and testing IAM policies for secure access to S3 buckets.
+🔹 Learning how to create and manage IAM users and groups.
 
-✔️ Applying security best practices by following the principle of least privilege.
+🔹 Implementing and testing IAM policies for secure access to S3 buckets.
 
-### **Opportunities for Growth**
-🌱 Automate user and group creation with AWS CLI or SDK.
+🔹 Applying security best practices by following the principle of least privilege.
 
-🌱 Implement lifecycle policies for S3 buckets.
+### **🌱 Opportunities for Growth 🌱**
 
-🌱 Add logging and monitoring to track IAM and S3 usage.
+🔹 Automate user and group creation with AWS CLI or SDK.
+
+🔹 Implement lifecycle policies for S3 buckets.
+
+🔹 Add logging and monitoring to track IAM and S3 usage.
