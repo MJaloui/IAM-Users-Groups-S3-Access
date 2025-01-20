@@ -208,9 +208,30 @@
 
 
 
-### 24. Create a group for your Second User,
+### 24. Create a "Group". for your Second "User". 
 
 ![image](https://github.com/user-attachments/assets/70442291-9dc6-4119-9bb5-22e172e730a2)
+
+
+
+### 25. Enter the "User group name".
+
+ - This time you will not add any "Permission policies".
+
+ - Click "Create user group"
+
+![image](https://github.com/user-attachments/assets/d7307a59-2639-4ebd-af53-00c7cd256a33)
+
+![image](https://github.com/user-attachments/assets/67f81766-ecb3-4730-8376-5b914045b69a)
+
+
+
+### 26. If creating the "Group" was successfull, you will notice a green banner on top of the page.
+       
+
+
+
+
 
 
 
