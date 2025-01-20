@@ -127,7 +127,6 @@
 
 
 
-2. 
 
 
 
@@ -140,14 +139,8 @@
 
 
 
-2. Create IAM Groups:
-   - Create groups and organize users based on roles (e.g., Admins, Developers).
 
-3. Attach S3 Full Access Policies:
-   - Assign the S3 Full Access policy to users, groups, or roles.
 
-4. Create and Manage an S3 Bucket:
-   - Set up an S3 bucket and test access with IAM users and groups.
 
 5. Test Permissions:
    - Verify that users and groups can only access resources as defined in their policies.
