@@ -383,6 +383,6 @@
 
 
 
-30. Test Permissions:
+38. Test Permissions:
    - Verify that users and groups can only access resources as defined in their policies.
 
