@@ -244,6 +244,6 @@
 
 
 
-5. Test Permissions:
+30. Test Permissions:
    - Verify that users and groups can only access resources as defined in their policies.
 
