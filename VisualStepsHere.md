@@ -189,7 +189,7 @@
 
 
 
-### 22. Select the same options as the last last user:
+### 22. Select the same options as the last  user:
 
    - check the box next to "Provide user access to the AWs "Management Console".
 
@@ -273,7 +273,10 @@
 
 
 
-### 30. Now you will create your final "user" with "Administrator" access and "Programmatic" access. 
+### 30. Now you will create your final "User" with "Administrator" access.  
+
+ - You will also give "Programmatic" access to utilize CLI, SDKs, or APIs instead of the 
+   web console. 
 
  - Click "Create user" on the top right.
 
@@ -282,7 +285,21 @@
 ![image](https://github.com/user-attachments/assets/63e7e57a-dea1-465a-a47d-733921269829)
 
 
+### 31. Enter a "User name".
 
+
+
+
+### 32. Select the same options as the  last user:
+
+ - check the box next to "Provide user access to the AWs "Management Console".
+
+ - Select "I want to create an IAM user".
+
+ - Select "Custom password".
+
+ - Ensure the checkbox that is next to "Users must create a new password at the next 
+   sign-in" is checked.
 
 
 
