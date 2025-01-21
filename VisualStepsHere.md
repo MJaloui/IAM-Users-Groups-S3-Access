@@ -345,7 +345,7 @@
 ![image](https://github.com/user-attachments/assets/b2758cec-d76d-4428-9021-54800079f8af)
 
 
-### 37. If creating the "Group" was successfull, you will notice a green banner on top of the page.
+### 37. If creating the "Group" was successfull, you will notice a green banner on top of the page. Before you click "Next", validate attachments below.
 
  - Validate your TWO "Attached policies" so you can test the access later.
 
@@ -360,13 +360,19 @@
 
    
 
+### 38. Click "Next".
+
+![image](https://github.com/user-attachments/assets/7babc72b-43b3-47f5-9181-ee8184f70db5)
 
 
 
+### 39. Review "User details", "Permissions summary", and etc...
 
+ - Click "Create user" after correct info is validated.
 
+![image](https://github.com/user-attachments/assets/d9244a57-cb28-458c-a612-806d632cf47c)
 
-
+![image](https://github.com/user-attachments/assets/c72a9d8c-915c-49d2-8ec3-f71906e1876e)
 
 
 
