@@ -287,10 +287,17 @@
 
 ### 31. Enter a "User name".
 
+![image](https://github.com/user-attachments/assets/ab9a5d74-b1f0-4bc6-8656-6303b0f93308)
 
 
 
-### 32. Select the same options as the  last user:
+### 32. Take note of this message below. To give "Programmatic" access, you will need to add it after your new "User" and "Group" is created. 
+
+![image](https://github.com/user-attachments/assets/9e1f0397-9494-44c7-b7c8-69f47165be49)
+
+
+
+### 33. Select the same options as the  last user:
 
  - check the box next to "Provide user access to the AWs "Management Console".
 
@@ -300,6 +307,44 @@
 
  - Ensure the checkbox that is next to "Users must create a new password at the next 
    sign-in" is checked.
+
+![image](https://github.com/user-attachments/assets/0ca328bd-d290-43de-9bd2-a19263d58a54)
+
+
+
+
+### 34.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
