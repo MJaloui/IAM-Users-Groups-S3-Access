@@ -336,16 +336,29 @@
 
  - This time you will add "AdministratorAccess".
 
- -  Then click "Create user group"
+ - Then click "Create user group"
 
 
+![image](https://github.com/user-attachments/assets/1eb92493-bd37-4f42-9514-740b387f3624)
 
 
+![image](https://github.com/user-attachments/assets/b2758cec-d76d-4428-9021-54800079f8af)
 
 
+### 37. If creating the "Group" was successfull, you will notice a green banner on top of the page.
+
+ - Validate your TWO "Attached policies" so you can test the access later.
+
+ - The "Admins" will have "AdminstratorAccess".
+ 
+ - The "Developers" will have "AmazonS3FullAccess".
+ 
+ - The "Testers" will show a blank space because there is no policies attached.
+
+![image](https://github.com/user-attachments/assets/308ecb78-58d0-41a4-a1a1-26e066ac20dd)
 
 
-
+   
 
 
 
