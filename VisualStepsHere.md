@@ -261,14 +261,25 @@
 
 
 
-### 29. 
+### 29. Click "Return to users list" to create another User and Group with Administrator Access Programmitic
+        
+- If you didn't choose to download the file you will recieve an alert message asking if you wish to continue.
+
+-   Click "continue" if you wish to proceed without the file.
+
+![image](https://github.com/user-attachments/assets/efd116b5-08ae-4713-8f32-557467cad646)
+
+![image](https://github.com/user-attachments/assets/7fc9d8a2-0c3d-4667-a53b-4fd096e0b2ba)
 
 
 
+### 30. Now you will create your final "user" with "Administrator" access and "Programmatic" access. 
 
+ - Click "Create user" on the top right.
 
+![image](https://github.com/user-attachments/assets/4b525709-0228-40f5-ac5d-f0df89203d54)
 
-
+![image](https://github.com/user-attachments/assets/63e7e57a-dea1-465a-a47d-733921269829)
 
 
 
