@@ -36,24 +36,20 @@
 
 
 
-### 4. Leave the default settings at current settings. Validate public access is disabled, 
-       then click "Create Bucket"
+### 4. Leave the default settings at current settings. Validate public access is disabled, then click "Create Bucket"
 
 ![image](https://github.com/user-attachments/assets/95274119-965b-4e98-929d-29fa9323e837)
 
 
 
 
-### 5. If you see the green "Successfully created bucket" banner on the top of your page, you 
-       are good to go!
+### 5. If you see the green "Successfully created bucket" banner on the top of your page, you are good to go!
 
 ![image](https://github.com/user-attachments/assets/a9657c4f-0c1e-47ff-b411-4e590662ac51)
 
 
 
-### 6. Now you will create 3 Users, Head back to the "Console Home" and click "IAM" or search 
-       for "IAM" in the search bar. You will have zero Roles and Policies if this is your 
-       first time.
+### 6. Now you will create 3 Users, Head back to the "Console Home" and click "IAM" or search for "IAM" in the search bar. You will have zero Roles and Policies if this is your first time.
 
 ![image](https://github.com/user-attachments/assets/75bdb94e-600f-4533-a0aa-0cf7d09fc7cf)
 
@@ -77,8 +73,7 @@
 
 
 
-### 9. Enter a "User name", then check the box next to "Provide user access to the AWS 
-   Management Console".
+### 9. Enter a "User name" for your first user, then check the box next to "Provide user access to the AWS Management Console".
 
 ![image](https://github.com/user-attachments/assets/40f626e1-bb78-4285-8fe6-07ce9c2fdde4)
 
@@ -89,8 +84,8 @@
    
    - Select Custom password.
    
-   - Ensure the checkbox that is next to "Users must create a new password at the nest sign- 
-     in" is checked.
+   - Ensure the checkbox that is next to "Users must create a new password at the nest 
+     sign-in" is checked.
 
 ![image](https://github.com/user-attachments/assets/9189018c-d06e-4981-95f7-1b65f8b710f7)
 
@@ -113,7 +108,9 @@
 
 
 
-### 13. Enter a "User group name"
+### 13. Enter the first "User group name"
+
+ - Name this group "Developers".
 
 ![image](https://github.com/user-attachments/assets/c8376214-a16e-4743-a25d-ea468588be6b)
 
@@ -210,14 +207,16 @@
 
 
 
-### 24. Create a "Group". for your Second "User". 
+### 24. Create a "Group" for your Second "User". 
 
 ![image](https://github.com/user-attachments/assets/bdbcef51-3f33-4f51-920d-501507fc27ae)
 
 
 
 
-### 25. Enter the "User group name".
+### 25. Enter the second "User group name".
+
+ - Name this group "Testers".
 
  - This time you will not add any "Permission policies".
 
@@ -285,9 +284,13 @@
 ![image](https://github.com/user-attachments/assets/63e7e57a-dea1-465a-a47d-733921269829)
 
 
+
+
 ### 31. Enter a "User name".
 
 ![image](https://github.com/user-attachments/assets/ab9a5d74-b1f0-4bc6-8656-6303b0f93308)
+
+
 
 
 
@@ -297,7 +300,7 @@
 
 
 
-### 33. Select the same options as the  last user:
+### 33. Select the same options as the last user:
 
  - check the box next to "Provide user access to the AWs "Management Console".
 
@@ -313,16 +316,27 @@
 
 
 
-### 34.
+### 34. Click "next"
+
+![image](https://github.com/user-attachments/assets/87288f8a-73d4-46dd-9b77-a3c06d92d888)
 
 
 
 
+### 35. Click "Create Group" for your third "User" on the top right.
+
+![image](https://github.com/user-attachments/assets/ae3a589f-9018-4a7c-b590-6eb2a4cfee8e)
 
 
 
 
+### 36. Enter the third "User group name".
+ 
+ - Name this group "Admins". 
 
+ - This time you will add "AdministratorAccess".
+
+ -  Then click "Create user group"
 
 
 
