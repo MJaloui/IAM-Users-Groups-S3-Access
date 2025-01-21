@@ -162,12 +162,11 @@
 
 
 
-### 19. Click "Return to users list" to create another User and Group with no access to 
-        S3 Bucket.
+### 19. Click "Return to users list" to create another User and Group with no access to S3 Bucket.
         
-        - If you didn't choose to download the file you will recieve an alert message 
-          asking if you wish to continue. Click "continue" if you wish to proceed 
-          without the file.
+- If you didn't choose to download the file you will recieve an alert message asking if you wish to continue.
+
+-   Click "continue" if you wish to proceed without the file.
 
 ![image](https://github.com/user-attachments/assets/660656a6-4961-4e1b-bda7-2f3b12e6dfac)
 
