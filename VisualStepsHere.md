@@ -154,18 +154,20 @@
 
  - Copy the URL displayed, you will need if for your User to sign in.
  
- - If you forgot the Password for your User, click "Show" under "Console password", it's also 
-   in the downloaded file.
+ - If you forgot the Password for your User, click "Show" under "Console password", it's 
+   also in the downloaded file.
 
-![image](https://github.com/user-attachments/assets/536ae5af-913e-4e6a-b1e4-bd51a9ce1d44)
+![image](https://github.com/user-attachments/assets/8944e738-caf6-4f4e-9167-65d52975bd27)
 
 
 
-### 19. Click "Return to users list" to create another User and Group with no access to S3 
-        Bucket.
+
+### 19. Click "Return to users list" to create another User and Group with no access to 
+        S3 Bucket.
         
-        - If you didn't choose to download the file you will recieve an alert message asking 
-          if you wish to continue. Click "continue" if you wish to proceed without the file.
+        - If you didn't choose to download the file you will recieve an alert message 
+          asking if you wish to continue. Click "continue" if you wish to proceed 
+          without the file.
 
 ![image](https://github.com/user-attachments/assets/660656a6-4961-4e1b-bda7-2f3b12e6dfac)
 
@@ -196,9 +198,10 @@
    
    - Select "Custom password".
    
-   - Ensure the checkbox that is next to "Users must create a new password at the next sign- 
-     in" is checked.
+   - Ensure the checkbox that is next to "Users must create a new password at the next 
+     sign-in" is checked.
 
+![image](https://github.com/user-attachments/assets/d0bcf134-1e0d-45b0-b546-c51d26da1ff2)
 
 
 
@@ -210,7 +213,8 @@
 
 ### 24. Create a "Group". for your Second "User". 
 
-![image](https://github.com/user-attachments/assets/70442291-9dc6-4119-9bb5-22e172e730a2)
+![image](https://github.com/user-attachments/assets/bdbcef51-3f33-4f51-920d-501507fc27ae)
+
 
 
 
@@ -226,8 +230,44 @@
 
 
 
-### 26. If creating the "Group" was successfull, you will notice a green banner on top of the page.
+
+### 26. If creating the "Group" was successfull, you will notice a green banner on top of the page, then click "Next".
        
+![image](https://github.com/user-attachments/assets/f952185f-08b2-4dc4-8639-cb36bbe7874c)
+
+![image](https://github.com/user-attachments/assets/b5a652c0-c32a-4745-822d-3ccab8dbf025)
+
+
+
+### 27. Review "User details", "Permissions summary", and etc....
+ - Click "Create user" after correct info is validated.
+
+![image](https://github.com/user-attachments/assets/6b54ed33-c54b-4834-9998-0ecb53aed044)
+
+![image](https://github.com/user-attachments/assets/c72a9d8c-915c-49d2-8ec3-f71906e1876e)
+
+
+
+
+### 28. You will recieve a green banner above if user was created succefully.
+ 
+ - Download file if you'd like to see instructions for signing in.
+
+ - Copy the URL displayed, you will need if for your User to sign in.
+ 
+ - If you forgot the Password for your User, click "Show" under "Console password", it's 
+   also in the downloaded file.
+
+![image](https://github.com/user-attachments/assets/49b9fae1-91e3-4ef1-b3f5-87bb90865b9e)
+
+
+
+### 29. 
+
+
+
+
+
 
 
 
