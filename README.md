@@ -1,4 +1,4 @@
-# IAM Users, Groups, and S3 Access (In Progress)
+# IAM Users, Groups, and S3 Access 
 
 ![image](https://github.com/user-attachments/assets/e1560284-c104-4cf9-8fe1-ffb7a28a9862)
 
