@@ -469,7 +469,8 @@
    - You will need to verify that users and groups can only access resources as defined in 
      their policies.
    
-   - User in "Developers" Group will have access to S3 Bucket.
+   - User in "Developers" Group will have access to S3 Bucket, but no access to Command Line 
+     Interface.
    
    - User in "Testers" Group will not have access to anything, including the bucket created.
   
