@@ -9,7 +9,8 @@
 
 ## **🔷 Project Highlights 🔷**
 
-🔒 This project demonstrates how to manage IAM users and groups effectively while granting access to an S3 bucket.
+🔒 This project demonstrates how to manage IAM users and groups effectively while granting 
+ access to an S3 bucket.
 
 🛡️ It covers creating IAM users, organizing them into groups, and assigning permissions to 
    access AWS S3 resources.
