@@ -499,7 +499,7 @@
 
 
 
-### 49. Test all three User's Permissions:
+### 54. Test all three User's Permissions:
 
    - You will need to verify that users and groups can only access resources as defined in 
      their policies.
@@ -513,4 +513,76 @@
      Command Line Interface (CLI).
 
      
+
+
+
+### 55. Login with your User in the "Developers" Group using the URL provided in your browser.
+
+![image](https://github.com/user-attachments/assets/729c6f9e-61d8-4679-bfe6-a6483904e908)
+
+![image](https://github.com/user-attachments/assets/cabd26db-62be-498b-94c2-086f33264e95)
+
+
+
+### 56. Enter the Username and Password for the Developer, then click "Sign in".
+
+![image](https://github.com/user-attachments/assets/fbdef4d7-6edf-4b29-885a-758adb3b7ca6)
+
+
+
+
+### 57. Change the old password to a new password.
+
+ - Select preferred language.
+
+ - Click "Confirm password change".
+
+![image](https://github.com/user-attachments/assets/d0827a7f-a59c-429c-bbfa-b6596da319e6)
+
+
+
+
+### 58. Click S3 on the "Console Home" to validate S3 Bucket access.
+
+![image](https://github.com/user-attachments/assets/5fea1812-22ad-4fb2-a4c2-7117920c434b)
+
+
+
+### 59. The bucket you created should be displayed. If not, you may not have created the Group for the User or you may not have selected the permissions. 
+
+ - Signout and log back into your AWS accout to validate what you need to correct by checkin in 
+   IAM Users and Permissions. You can correct this without creating another user. 
+
+![image](https://github.com/user-attachments/assets/8104e22c-1896-43e5-8ce1-04e047f71716)
+
+
+### 60. Validate wether your Deloper has access to the Command Line Interface (CLI).
+
+ - On the very bottom left, Click "Cloud".
+ 
+ - Try clicking inside the CLI and typing in any letter, the User will not have access if you 
+   try to enter in a command.
+
+- If you try to use other services that requires "Permissions" you will not have access because 
+  only S3 Bucket policy was selected for this user. 
+
+ ![image](https://github.com/user-attachments/assets/76e1238c-1264-4043-be5c-2f8674bc1008)
+
+![image](https://github.com/user-attachments/assets/2916d7da-1230-43c2-81d8-0e859dde589e)
+
+
+### 61. Signout to log back in with the Tester's credentials to validate S3 access.
+
+
+
+
+
+
+
+
+
+55. Login with your User in the "Testers" Group using the URL provided in your browser.
+
+
+55. Login with your User in the "Admins" Group using the URL provided in your browser.
 
