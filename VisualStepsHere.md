@@ -464,7 +464,7 @@
 
 
 
-### 47. Test and User Permissions:
+### 49. Test and User Permissions:
 
    - You will need to verify that users and groups can only access resources as defined in 
      their policies.
