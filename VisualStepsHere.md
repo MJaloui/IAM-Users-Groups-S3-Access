@@ -447,10 +447,34 @@
 ![image](https://github.com/user-attachments/assets/b07213e6-f9b5-4ff8-8d97-0e500b18ac69)
 
 
-### 47. Select "Application running on an AWS compute service" 
+
+
+### 47. Select "Command Line Interface (CLI)".
+
+![image](https://github.com/user-attachments/assets/fdf19a07-6207-48e4-8ef7-f54b98bbe660)
 
 
 
-46. Test Permissions:
-   - Verify that users and groups can only access resources as defined in their policies.
+
+### 48. Scroll down to the bottom and select the box next to "I understand the above recommendation and want to preceed to create an access key", if you understand.
+
+ - Then click "Next".
+
+![image](https://github.com/user-attachments/assets/44fe0947-3d4d-40c8-a018-c207c9a8dd29)
+
+
+
+### 47. Test and User Permissions:
+
+   - You will need to verify that users and groups can only access resources as defined in 
+     their policies.
+   
+   - User in "Developers" Group will have access to S3 Bucket.
+   
+   - User in "Testers" Group will not have access to anything, including the bucket created.
+  
+   - User in "Admins" Group will not have access to S3 Bucket, but will have access to the 
+     Command Line Interface (CLI).
+
+     
 
