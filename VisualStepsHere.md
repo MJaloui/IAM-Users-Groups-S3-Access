@@ -151,7 +151,7 @@
 
  - Copy the URL displayed, you will need if for your User to sign in.
  
- - If you forgot the Password for your User, click "Show" under "Console password", it's 
+ - If you forgot the Password for the User, click "Show" under "Console password", it's 
    also in the downloaded file.
 
 ![image](https://github.com/user-attachments/assets/8944e738-caf6-4f4e-9167-65d52975bd27)
@@ -253,7 +253,7 @@
 
  - Copy the URL displayed, you will need if for your User to sign in.
  
- - If you forgot the Password for your User, click "Show" under "Console password", it's 
+ - If you forgot the Password for the User, click "Show" under "Console password", it's 
    also in the downloaded file.
 
 ![image](https://github.com/user-attachments/assets/49b9fae1-91e3-4ef1-b3f5-87bb90865b9e)
@@ -376,19 +376,63 @@
 
 
 
+### 40. You will recieve a green banner above if user was created succefully.
+
+ - Download file if you'd like to see instructions for signing in.
+
+ - Copy the URL displayed, you will need if for your User to sign in.
+
+ - If you forgot the Password for the User, click "Show" under "Console password", it's 
+   also in the downloaded file.
+
+![image](https://github.com/user-attachments/assets/9c67c70.-6bbe-4ceb-bc83-e99e7e22a552)
 
 
 
 
+### 41. Click "Return to users list".
+
+ - If you didn't choose to download the file you will recieve an alert message asking if 
+   you wish to continue.
+
+ - Click "continue" if you wish to proceed without the file.
+
+![image](https://github.com/user-attachments/assets/efd116b5-08ae-4713-8f32-557467cad646)
+
+![image](https://github.com/user-attachments/assets/7fc9d8a2-0c3d-4667-a53b-4fd096e0b2ba)
 
 
 
 
+### 42. You will see some info about the 3 users you created. 
+
+  - If you notice one of user's name is spelled wrong, you can select the user and click 
+   "delete" on the top right. You'll have to create it again.
+
+  - One of the user's depicted is incorrect so it will be corrected. 
+ 
+ - If you'd like to see the most up to date info, click the refresh button before the 
+   "Delete" and "Create user" button.
+
+![image](https://github.com/user-attachments/assets/4135559c-4bd3-4130-92d7-433f63a905ff)
 
 
+### 43. Take note that the "Password age" will be updated.
+
+ - Here's a screenshot of what is looks like after 2 days.
+ 
+ - Use the scroll bar below to view more info to the right.
+
+![image](https://github.com/user-attachments/assets/e03ef49a-954b-4845-9c52-a09551240e65)
+
+![image](https://github.com/user-attachments/assets/c631387f-029b-428a-bd09-f89b9f4410e8)
+
+   
+### 44. To add "Programmatic" access to the user in the "Admins" group, click on the Admin's name.
+
+![image](https://github.com/user-attachments/assets/9c9993ba-af70-485f-b30d-4dad6415209d)
 
 
-
-38. Test Permissions:
+46. Test Permissions:
    - Verify that users and groups can only access resources as defined in their policies.
 
