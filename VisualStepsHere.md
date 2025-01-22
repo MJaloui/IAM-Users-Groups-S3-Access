@@ -464,7 +464,42 @@
 
 
 
-### 49. Test and User Permissions:
+### 49. Enter a "Description tag value", this is optional and not required.
+
+![image](https://github.com/user-attachments/assets/c20c2d7f-66ae-436e-8302-70aff154591e)
+
+
+
+
+### 50. Click "Create access key".
+
+![image](https://github.com/user-attachments/assets/382ae6b1-f050-4e88-8907-342d2a91e9a0)
+
+
+
+
+### 51. You will recieve a green banner above if the user was created succefully.
+
+- You now have an "Access" key and a "Secret" access key, these can be used when you are ready 
+  to create "Roles" with services that require those keys.
+
+- Download the file if you'd like to convert the Text encoding.
+
+
+
+### 52. Click "Done".
+
+![image](https://github.com/user-attachments/assets/da49ad43-94ae-4c37-9601-b37a4c3d5084)
+
+
+### 53. Copy the URL displayed, you will need it for your User to sign in.
+
+![image](https://github.com/user-attachments/assets/e1a03116-deca-41a0-8455-8524a1fcbad7)
+
+
+
+
+### 49. Test all three User's Permissions:
 
    - You will need to verify that users and groups can only access resources as defined in 
      their policies.
