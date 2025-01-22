@@ -639,22 +639,35 @@
 
 ### 69. Signout to log back in with the Admins's credentials to validate Administrator access.
 
+![image](https://github.com/user-attachments/assets/9b3875f4-35ca-4826-a069-1e23117c3f8f)
 
 
 
+### 70. Change the old password to a new password.
 
+- Select preferred language.
+
+- Click "Confirm password change".
 
 ![image](https://github.com/user-attachments/assets/1bda2fe8-518a-4a82-85c3-c8da086bd8b3)
 
 
 
 
+### 71. Click on bottom left
+
+![image](https://github.com/user-attachments/assets/eafc7ea4-d576-474c-86b7-8334189df32a)
 
 
 
+### 72. Notice there is no error message that appears about the access, type in a command to validate it works.
+
+- If the Admin does not have access, you may have not to selected "AdministratorAccess" policy 
+  when creating the Group to the Admin or you may have not added the correct "Programmatic" 
+  access "CLI". Signout and log back in to your AWS acct to validate the Admin access in IAM.
+
+![image](https://github.com/user-attachments/assets/653f7834-2d67-4eb5-94b8-54ef28c71d5f)
 
 
 
-
-
-
+### This is complete! To learn how to utilize "Roles", check out "RolesVisualSteps" coming soon!
