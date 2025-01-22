@@ -573,6 +573,78 @@
 
 ### 61. Signout to log back in with the Tester's credentials to validate S3 access.
 
+- Enter the Username and Password for the Developer, then click "Sign in
+
+  ![image](https://github.com/user-attachments/assets/1eb53e81-955b-463a-9447-835aa1a852da)
+
+
+
+### 62. Change the old password to a new password.
+
+ - Select preferred language.
+
+ - Click "Confirm password change".
+
+![image](https://github.com/user-attachments/assets/94b784e5-b586-4014-baaa-71e03ef00bcb)
+
+
+### 63. Click S3 on the "Console Home" to validate S3 Bucket access.
+
+![image](https://github.com/user-attachments/assets/14f845d2-87b3-4bb6-b2bc-84efc164b758)
+
+
+
+
+### 64. You will not see any buckets. You see the default page for a new user to create a bucket.
+
+ - If there is a bucket displayed, you may have accidently added the S3 policy to this user. 
+   Logout and log back into your AWS account to remove the S3 permission policy for your 
+   Tester, then log back in your Tester's account to validate no access for S3 Bucket.
+   You can do this in IAM.
+
+ ![image](https://github.com/user-attachments/assets/23188832-8d3e-4ac5-9e2d-1694733ae914)
+  
+
+
+### 65. Create a bucket to verify the Tester have no access. Click the "Create bucket" button.
+
+![image](https://github.com/user-attachments/assets/965b21c2-e92a-4198-ab6e-8ed7d07e01d6)
+
+
+
+
+### 66. Enter a "Bucket name", then scroll down and click "Create bucket"
+
+![image](https://github.com/user-attachments/assets/3deea10c-f2f7-45a7-aa19-72e37679daae)
+
+![image](https://github.com/user-attachments/assets/6dc1b721-b367-4101-9854-8277d6353dad)
+
+
+### 67. A "failed to create bucket" error message will appear because the Tester does not have access.
+
+![image](https://github.com/user-attachments/assets/d45eb0f2-ddad-4d12-b1a9-a13e53c0042f)
+
+
+### 68. Click "CloudShell" on the bottom left to validate CLI access.
+
+- Try clicking inside the CLI and typing in any letter, the User will not have access if you try to enter in a command.
+
+- If you try to use other services that requires "Permissions" you will not have access to any service because the Tester wasn't given any Permission Policies.
+
+![image](https://github.com/user-attachments/assets/199e2b91-d2ec-4ac3-be41-32b20af21a05)
+
+![image](https://github.com/user-attachments/assets/c671f563-6b5e-4c5f-81ad-c2585e732d9f)
+
+
+
+### 69. Signout to log back in with the Admins's credentials to validate Administrator access.
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/1bda2fe8-518a-4a82-85c3-c8da086bd8b3)
 
 
 
@@ -581,8 +653,8 @@
 
 
 
-55. Login with your User in the "Testers" Group using the URL provided in your browser.
 
 
-55. Login with your User in the "Admins" Group using the URL provided in your browser.
+
+
 
