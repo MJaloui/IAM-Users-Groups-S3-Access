@@ -434,7 +434,23 @@
 
 
 
-### 45. 
+### 45. Click on the "Security credentials" tab.
+
+![image](https://github.com/user-attachments/assets/ce865b48-a835-42ab-9de8-77faf3e62268)
+
+
+
+### 46. Scroll down to "Access Keys", then click "Create access key".
+
+![image](https://github.com/user-attachments/assets/a151111c-e3fa-4a67-8275-bc12398fafee)
+
+![image](https://github.com/user-attachments/assets/b07213e6-f9b5-4ff8-8d97-0e500b18ac69)
+
+
+### 47. Select "Application running on an AWS compute service" 
+
+
+
 46. Test Permissions:
    - Verify that users and groups can only access resources as defined in their policies.
 
