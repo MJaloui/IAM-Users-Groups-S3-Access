@@ -433,6 +433,8 @@
 ![image](https://github.com/user-attachments/assets/9c9993ba-af70-485f-b30d-4dad6415209d)
 
 
+
+### 45. 
 46. Test Permissions:
    - Verify that users and groups can only access resources as defined in their policies.
 
